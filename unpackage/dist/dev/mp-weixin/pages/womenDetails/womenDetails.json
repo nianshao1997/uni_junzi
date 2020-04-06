@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "人物详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "recommend": "/components/recommend"
+  }
+}

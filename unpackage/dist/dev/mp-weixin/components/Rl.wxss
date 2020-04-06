@@ -1,0 +1,94 @@
+
+.bottom.data-v-6e0c84b6{
+	margin-top: 20px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.color.data-v-6e0c84b6{
+	background-color: #4CD964;
+	color: #FFFFFF;
+	width: 50px;
+	text-align: center;
+	border-radius: 5px;
+}
+.mask.data-v-6e0c84b6{
+	position: fixed;
+	z-index: 99;
+	left: 0;
+	top: 0;
+	bottom: 0;
+    background-color: rgba(0,0,0,.4);
+	right: 0;
+}
+.mask-content.data-v-6e0c84b6{
+	padding: 20px;
+	background-color: #FFFFFF;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	box-sizing: border-box;
+	border-radius: 10px;
+}
+.mask-content-top.data-v-6e0c84b6{
+	padding: 0 30px;
+	font-size: 18px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.mask-content-top-unshow.data-v-6e0c84b6{
+	font-family: 'iconfont';
+	color: #999999;
+	cursor: pointer;
+}
+.mask-content-login-status.data-v-6e0c84b6{
+	font-size: 16px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.mask-content-login-bottom.data-v-6e0c84b6{
+	font-size: 14px;
+}
+.mask-content-login-username.data-v-6e0c84b6,
+.mask-content-login-password.data-v-6e0c84b6{
+	margin-top: 20px;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+	border: 1px solid #C0C0C0;
+}
+.mask-content-login-status.data-v-6e0c84b6{
+	margin: 20px;
+}
+.mask-content-login-bottom.data-v-6e0c84b6{
+	text-align: center;
+	margin-top: 20px;
+}
+.mask-content-register-input.data-v-6e0c84b6{
+	height: 38px;
+	padding-left: 10px;
+	border: 1px solid #C0C0C0;
+	border-radius: 8px;
+	margin: 10px;
+}
+.mask-content-register-input>input.data-v-6e0c84b6{
+	height: 38px;
+}
+.register-now.data-v-6e0c84b6{
+	margin-left: 14px;
+	color:#808080;
+}
+
+

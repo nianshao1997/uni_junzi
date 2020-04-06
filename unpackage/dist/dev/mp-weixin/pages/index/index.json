@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "君子好色",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "search": "/components/search",
+    "recommend": "/components/recommend",
+    "article": "/components/Article"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/avDetails/avDetails",
+    "pages/searchRezult/searchRezult",
+    "pages/womenDetails/womenDetails"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "nav": "/components/Nav"
+  },
+  "sitemapLocation": "sitemap80.json"
+}
